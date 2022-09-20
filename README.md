@@ -12,7 +12,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haga605)](https://solved.ac/haga605)
 
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hiluxy&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeHyeJin&fontSize=90)
 
 <div align="center">
 

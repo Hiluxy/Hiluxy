@@ -33,6 +33,7 @@ sunset.lhj@gmail.com
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> 
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/matlab-FF9F04?style=for-the-badge&logo=java&logoColor=white"/> 
 
 #### Frameworks, Platforms and Libraries
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 

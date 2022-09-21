@@ -49,4 +49,16 @@ sunset.lhj@gmail.com
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haga605)](https://solved.ac/haga605)
 
+##  <b>Project</b> 🔍
+### <b>🎈BookBook클론코딩🎈<b>
+### 2022.09
+[BookBook](https://github.com/bookbookw71/3team_w7)
+
+### <b>🎈EVERRENT🎈<b>
+### 2022.09~(진행중)
+[EverRent](https://github.com/ever-rent/ever-rent-BE)
+
+### <b>🎈딥러닝을 활용한 PCB불량 검출기🎈<b>
+### 2021.04~2021.09
+<!--![image](https://user-images.githubusercontent.com/108391677/191505359-ad1201a4-bd7b-4ef9-96f0-5867689fa60d.png)-->
 </div>

@@ -49,6 +49,7 @@ sunset.lhj@gmail.com
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haga605)](https://solved.ac/haga605)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiluxy&show_icons=true&theme=merko)
 
 <!--##  <b>Project</b> 🔍
 ### <b>🎈BookBook클론코딩🎈<b>

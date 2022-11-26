@@ -17,7 +17,7 @@
 <div align="center">
 
 ## <b>📩Contact📩</b>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunset.lhj@gmail.com)](mailto:kimsh1691@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunset.lhj@gmail.com)](mailto:sunset.lhj@gmail.com)
 
 ##  <b>Stacks</b> 🛠
 
